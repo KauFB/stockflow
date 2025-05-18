@@ -1,6 +1,6 @@
 // Slider.jsx
 import React from 'react';
-import '../styles/slider.css';
+import '../styles/Slider.css';
 
 const Slider = () => {
   return (
