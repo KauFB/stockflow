@@ -1,8 +1,8 @@
 // Slider.jsx
 import React from 'react';
-import '../styles/Slider.css';
+import '../../styles/slider.css';
 
-const Slider = () => {
+function Slider() {
   return (
     <section className="hero-section">
       <div className="hero-overlay" />
@@ -16,6 +16,6 @@ const Slider = () => {
       </div>
     </section>
   );
-};
+}
 
 export default Slider;

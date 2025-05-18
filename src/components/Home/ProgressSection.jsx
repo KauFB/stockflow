@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/css.css'; // Certifique-se de que o CSS esteja importado
+import '../../styles/pages/Home.css';
 
 const ProgressSection = () => {
   return (
