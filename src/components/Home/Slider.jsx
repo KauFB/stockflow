@@ -2,6 +2,7 @@
 import React from 'react';
 import '../../styles/slider.css';
 
+
 function Slider() {
   return (
     <section className="hero-section">
